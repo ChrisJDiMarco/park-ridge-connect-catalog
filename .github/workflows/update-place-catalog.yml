@@ -31,6 +31,7 @@ jobs:
           python3 Tools/place-directory/build_catalog.py \
             --output docs/place-directory/park-ridge-places.json \
             --fallback-input docs/place-directory/park-ridge-places.json \
+            --supplemental-input docs/place-directory/park-ridge-supplemental-places.json \
             --minimum-places 20
           python3 -m json.tool docs/place-directory/park-ridge-places.json >/tmp/park-ridge-places.json
 

@@ -14,8 +14,17 @@ businesses, parks, and public places current without scraping Google Maps.
 ## Generate the catalog
 
 ```sh
-python3 Tools/place-directory/build_catalog.py --output /tmp/park-ridge-places.json
+python3 Tools/place-directory/build_catalog.py \
+  --output /tmp/park-ridge-places.json \
+  --fallback-input docs/place-directory/park-ridge-places.json \
+  --supplemental-input docs/place-directory/park-ridge-supplemental-places.json \
+  --minimum-places 20
 ```
+
+The builder queries small OpenStreetMap/Overpass fragments, preserves the
+last-good catalog when a public endpoint is unavailable, and merges curated
+Park Ridge supplemental records for known restaurants, library, recreation, and
+civic places that OSM may omit.
 
 The output shape is:
 
@@ -23,6 +32,7 @@ The output shape is:
 {
   "generatedAt": "2026-06-16T00:00:00+00:00",
   "source": { "...": "..." },
+  "supplementalPlaces": { "...": "..." },
   "places": []
 }
 ```
@@ -33,7 +43,8 @@ directly through `PlaceDirectoryRefreshService`.
 ## Production setup
 
 1. The repository includes `.github/workflows/update-place-catalog.yml`, which
-   refreshes `docs/place-directory/park-ridge-places.json` daily.
+   refreshes `docs/place-directory/park-ridge-places.json` daily using OSM plus
+   `docs/place-directory/park-ridge-supplemental-places.json`.
 2. Publish `docs/place-directory/park-ridge-places.json` to a stable public
    HTTPS URL.
 3. Set the app target build setting `TOWN_PLACE_CATALOG_URL` to that HTTPS URL

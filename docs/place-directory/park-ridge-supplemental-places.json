@@ -1,0 +1,257 @@
+{
+  "source": {
+    "id": "park-ridge-connect-curated",
+    "title": "Park Ridge Connect curated seed",
+    "url": "https://github.com/ChrisJDiMarco/park-ridge-connect",
+    "summary": "Curated Park Ridge records used to supplement OpenStreetMap when public Overpass fragments are incomplete."
+  },
+  "places": [
+    {
+      "address": "176 Colony Avenue, Park Ridge, NJ 07656",
+      "category": "Food",
+      "highlights": ["Open seven days", "Black Angus burgers", "Bar and comfort classics"],
+      "id": "peppercorns",
+      "imageURL": "https://static.wixstatic.com/media/81266f_03f11a797d104a71a215c3a714221420~mv2.jpg",
+      "name": "Peppercorns Restaurant & Bar",
+      "phone": "201-391-2818",
+      "source": {
+        "id": "peppercorns-source",
+        "summary": "Restaurant website.",
+        "title": "Peppercorns",
+        "url": "https://www.peppercorns176.com/"
+      },
+      "subcategory": "American comfort food",
+      "summary": "Neighborhood scratch kitchen for lunch, dinner, happy hour, families, and casual celebrations.",
+      "tags": ["dinner", "lunch", "family", "bar"],
+      "website": "https://www.peppercorns176.com/"
+    },
+    {
+      "address": "146 Kinderkamack Road, Park Ridge, NJ 07656",
+      "category": "Adults",
+      "highlights": ["Craft cocktails", "Weekend brunch", "Private events"],
+      "id": "four-leaves",
+      "imageURL": "https://www.boozyburbs.com/wp-content/uploads/2024/06/img_1565-1-600x705.jpg",
+      "name": "Four Leaves",
+      "phone": "201-690-6755",
+      "source": {
+        "id": "four-leaves-source",
+        "summary": "Restaurant website.",
+        "title": "Four Leaves",
+        "url": "https://the4leaves.com/"
+      },
+      "subcategory": "Gastropub and cocktails",
+      "summary": "Elevated pub food, craft cocktails, brunch, private events, and downtown night-out energy.",
+      "tags": ["cocktails", "brunch", "date night", "adults"],
+      "website": "https://the4leaves.com/"
+    },
+    {
+      "address": "151 Kinderkamack Road, Park Ridge, NJ 07656",
+      "category": "Adults",
+      "highlights": ["Established 1992", "Private dining", "Tuesday-Sunday dinner"],
+      "id": "park-steakhouse",
+      "imageURL": "https://www.theparksteakhouse.com/content/website/accounts/201/800-4af8601eb9d0cdd11d4b40ff98c83768.jpg",
+      "name": "The Park Steakhouse",
+      "phone": "201-930-1300",
+      "source": {
+        "id": "park-steakhouse-source",
+        "summary": "Restaurant website.",
+        "title": "The Park Steakhouse",
+        "url": "https://www.theparksteakhouse.com/index.html"
+      },
+      "subcategory": "Modern American steakhouse",
+      "summary": "Park Ridge steakhouse with dry-aged steaks, seafood, wine, cocktails, and private rooms.",
+      "tags": ["steak", "wine", "private events", "date night"],
+      "website": "https://www.theparksteakhouse.com/index.html"
+    },
+    {
+      "address": "168F Kinderkamack Road, Park Ridge, NJ 07656",
+      "category": "Food",
+      "highlights": ["BYOB", "Fresh pasta", "Private events"],
+      "id": "pesto",
+      "imageURL": "https://pestoitalianbistro.com/wp-content/uploads/2025/09/Outside-2-scaled.jpg",
+      "name": "Pesto Italian Bistro",
+      "phone": "201-690-6101",
+      "source": {
+        "id": "pesto-source",
+        "summary": "Restaurant website.",
+        "title": "Pesto Italian Bistro",
+        "url": "https://pestoitalianbistro.com/"
+      },
+      "subcategory": "BYOB Italian",
+      "summary": "Cozy Italian bistro with lunch, dinner, online ordering, catering, and private events.",
+      "tags": ["italian", "byob", "family", "takeout"],
+      "website": "https://pestoitalianbistro.com/"
+    },
+    {
+      "address": "125 Kinderkamack Road, Park Ridge, NJ 07656",
+      "category": "Food",
+      "highlights": ["Serving since 1972", "Late hours", "Breakfast all day"],
+      "id": "ridge-diner",
+      "imageURL": "https://ridgediner.com/wp-content/uploads/2024/09/Coffee-600x600.png",
+      "name": "The Ridge Diner",
+      "phone": "201-391-4242",
+      "source": {
+        "id": "ridge-diner-source",
+        "summary": "Restaurant website.",
+        "title": "The Ridge Diner",
+        "url": "https://ridgediner.com/"
+      },
+      "subcategory": "Classic diner",
+      "summary": "Park Ridge landmark for breakfast, lunch, dinner, late-night bites, and comfort food.",
+      "tags": ["breakfast", "late night", "kids", "comfort food"],
+      "website": "https://ridgediner.com/"
+    },
+    {
+      "address": "300 Brae Boulevard, Park Ridge, NJ 07656",
+      "category": "Adults",
+      "highlights": ["Breakfast to drinks", "Private events", "Cocktail menu"],
+      "id": "pr-social",
+      "imageURL": "https://images.squarespace-cdn.com/content/v1/699612cfee2a7d1b8e65726f/ae6c405a-3f69-439b-89f4-8d70fd89e833/mhrsls.1395925.jpeg?format=750w",
+      "name": "PR Social Bar + Kitchen",
+      "phone": "201-307-0800",
+      "source": {
+        "id": "pr-social-source",
+        "summary": "Restaurant website.",
+        "title": "PR Social Bar + Kitchen",
+        "url": "https://www.prsocialbar.com/"
+      },
+      "subcategory": "Hotel bar and kitchen",
+      "summary": "Breakfast, lunch, dinner, drinks, private events, and social dining at the Marriott property.",
+      "tags": ["cocktails", "breakfast", "hotel", "events"],
+      "website": "https://www.prsocialbar.com/"
+    },
+    {
+      "address": "14 Park Avenue, Park Ridge, NJ 07656",
+      "category": "Food",
+      "highlights": ["Pizza", "Heroes", "Family feast deals"],
+      "id": "marcs",
+      "imageURL": "https://slicelife.imgix.net/22528/photos/original/product-sicilian-pizza-12373776.jpeg?auto=compress&auto=format",
+      "name": "Marc's Deli & Pizzeria",
+      "phone": "201-391-4333",
+      "source": {
+        "id": "marcs-source",
+        "summary": "Restaurant website.",
+        "title": "Marc's Deli & Pizzeria",
+        "url": "https://www.marcsdelipizzeria.com/"
+      },
+      "subcategory": "Deli and pizza",
+      "summary": "Local pizza, subs, wings, pasta, salads, and family deals close to downtown.",
+      "tags": ["pizza", "takeout", "kids", "quick"],
+      "website": "https://www.marcsdelipizzeria.com/"
+    },
+    {
+      "address": "85 Park Avenue, Park Ridge, NJ 07656",
+      "category": "Food",
+      "highlights": ["Pizza", "Pasta", "Lunch specials"],
+      "id": "park-pizza",
+      "imageURL": "https://slicelife.imgix.net/11779/photos/original/ParkPizza_CheesePizza.jpg?auto=compress&auto=format",
+      "name": "Park Pizza",
+      "phone": null,
+      "source": {
+        "id": "park-pizza-source",
+        "summary": "Restaurant website.",
+        "title": "Park Pizza",
+        "url": "https://www.parkpizzaparkridge.com/"
+      },
+      "subcategory": "Pizza and Italian",
+      "summary": "Downtown pizza, pasta, sandwiches, lunch specials, and fast takeout.",
+      "tags": ["pizza", "takeout", "downtown"],
+      "website": "https://www.parkpizzaparkridge.com/"
+    },
+    {
+      "address": "Park Ridge, NJ 07656",
+      "category": "Food",
+      "highlights": ["Pickup", "Delivery within 5 miles", "Closed Tuesday"],
+      "id": "dragon-house",
+      "imageURL": "https://dragonhousetogo.com/images/General-Tsos-Chicken.jpg",
+      "name": "Dragon House",
+      "phone": "201-505-0333",
+      "source": {
+        "id": "dragon-house-source",
+        "summary": "Restaurant website.",
+        "title": "Dragon House",
+        "url": "https://dragonhousetogo.com/"
+      },
+      "subcategory": "Chinese takeout",
+      "summary": "Chinese food for pickup and delivery within five miles.",
+      "tags": ["chinese", "delivery", "takeout"],
+      "website": "https://dragonhousetogo.com/"
+    },
+    {
+      "address": "51 Park Avenue, Park Ridge, NJ 07656",
+      "category": "Library",
+      "highlights": ["Museum passes", "Storytime", "Libby, Kanopy, Hoopla"],
+      "id": "library",
+      "imageURL": null,
+      "name": "Park Ridge Public Library",
+      "phone": "201-391-5151",
+      "source": {
+        "id": "library",
+        "summary": "Library hours, events, museum passes, digital resources, kids, teens, and adult programs.",
+        "title": "Park Ridge Public Library",
+        "url": "https://parkridgelibrarynj.org/"
+      },
+      "subcategory": "Library and community hub",
+      "summary": "Books, storytime, museum passes, digital collections, newspapers, kids, teens, adults, and community links.",
+      "tags": ["kids", "adults", "storytime", "museum passes"],
+      "website": "https://parkridgelibrarynj.org/"
+    },
+    {
+      "address": "Mill Pond, Park Ridge, NJ 07656",
+      "category": "Recreation",
+      "highlights": ["Walking trail", "Bridge", "Low-key outdoor reset"],
+      "id": "mill-pond",
+      "imageURL": null,
+      "name": "Mill Pond",
+      "phone": null,
+      "source": {
+        "id": "borough",
+        "summary": "Official borough site for alerts, calendar, departments, payments, public notices, and resident resources.",
+        "title": "Park Ridge Borough",
+        "url": "https://parkridgeboro.com/"
+      },
+      "subcategory": "Walk and nature",
+      "summary": "A quiet local walking and nature spot tied to borough open-space improvements and downtown life.",
+      "tags": ["walk", "nature", "quiet", "kids"],
+      "website": "https://parkridgeboro.com/"
+    },
+    {
+      "address": "Park Ridge Memorial Park, Park Ridge, NJ 07656",
+      "category": "Kids",
+      "highlights": ["Playground", "Pavilion", "Athletic fields"],
+      "id": "memorial-park",
+      "imageURL": null,
+      "name": "Memorial Park and Pavilion",
+      "phone": null,
+      "source": {
+        "id": "recreation",
+        "summary": "Official recreation and cultural programs, meetings, summer camp, concerts, and forms.",
+        "title": "Park Ridge Recreation",
+        "url": "https://parkridgeboro.com/departments/recreation"
+      },
+      "subcategory": "Playground, fields, and pavilion",
+      "summary": "Core family recreation area for playground time, athletic fields, pavilion use, and community events.",
+      "tags": ["playground", "kids", "fields", "picnic"],
+      "website": "https://parkridgeboro.com/departments/recreation"
+    },
+    {
+      "address": "Park Ridge Municipal Pool, Park Ridge, NJ 07656",
+      "category": "Recreation",
+      "highlights": ["Seasonal", "Family summer anchor", "Rules and membership via borough"],
+      "id": "municipal-pool",
+      "imageURL": null,
+      "name": "Park Ridge Municipal Pool",
+      "phone": null,
+      "source": {
+        "id": "borough",
+        "summary": "Official borough site for alerts, calendar, departments, payments, public notices, and resident resources.",
+        "title": "Park Ridge Borough",
+        "url": "https://parkridgeboro.com/"
+      },
+      "subcategory": "Seasonal swimming",
+      "summary": "Resident-focused municipal pool for summer swimming, swim team activity, and family afternoons.",
+      "tags": ["pool", "summer", "kids", "family"],
+      "website": "https://parkridgeboro.com/"
+    }
+  ]
+}
