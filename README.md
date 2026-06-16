@@ -9,6 +9,11 @@ GitHub Pages at:
 https://chrisjdimarco.github.io/park-ridge-connect-catalog/place-directory/park-ridge-places.json
 ```
 
+Public app pages:
+
+- Privacy policy: https://chrisjdimarco.github.io/park-ridge-connect-catalog/privacy/
+- Support: https://chrisjdimarco.github.io/park-ridge-connect-catalog/support/
+
 The scheduled workflow refreshes `docs/place-directory/park-ridge-places.json`
 daily and keeps the last-good catalog if live Overpass endpoints are
 temporarily unavailable.
