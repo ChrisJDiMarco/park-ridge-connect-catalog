@@ -17,3 +17,6 @@ Public app pages:
 The scheduled workflow refreshes `docs/place-directory/park-ridge-places.json`
 daily and keeps the last-good catalog if live Overpass endpoints are
 temporarily unavailable.
+Successful live refreshes write a fresh `generatedAt` timestamp even when the
+place list is unchanged, so the hosted catalog can prove it was checked
+recently.

@@ -25,6 +25,9 @@ The builder queries small OpenStreetMap/Overpass fragments, preserves the
 last-good catalog when a public endpoint is unavailable, and merges curated
 Park Ridge supplemental records for known restaurants, library, recreation, and
 civic places that OSM may omit.
+Successful live refreshes write a fresh `generatedAt` timestamp even when the
+place list is unchanged, so the hosted catalog can prove it was checked
+recently.
 
 The output shape is:
 

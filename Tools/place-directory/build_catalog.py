@@ -494,17 +494,6 @@ def write_catalog(catalog: dict, output_path: Path) -> None:
         handle.write("\n")
 
 
-def keep_previous_if_places_unchanged(catalog: dict, previous_path: Path, minimum_places: int) -> dict:
-    try:
-        previous = load_fallback_catalog(previous_path, minimum_places)
-    except (CatalogBuildError, OSError, json.JSONDecodeError):
-        return catalog
-
-    if previous.get("places") == catalog.get("places"):
-        return previous
-    return catalog
-
-
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument(
@@ -544,8 +533,6 @@ def main() -> int:
         catalog = build_catalog(endpoints, fallback_catalog)
         catalog = merge_supplemental_places(catalog, supplemental_places)
         validate_catalog(catalog, args.minimum_places)
-        if args.fallback_input:
-            catalog = keep_previous_if_places_unchanged(catalog, Path(args.fallback_input), args.minimum_places)
     except CatalogBuildError as error:
         if not fallback_catalog:
             print(str(error), file=sys.stderr)

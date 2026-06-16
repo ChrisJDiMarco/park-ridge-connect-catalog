@@ -7,9 +7,9 @@ the `TOWN_PLACE_CATALOG_URL` build setting.
 
 The scheduled GitHub Actions workflow refreshes this JSON daily from
 OpenStreetMap/Overpass, merges `park-ridge-supplemental-places.json` for known
-Park Ridge records that public OSM endpoints may omit, and commits a new copy
-only when the catalog changes. GitHub Pages publishes the `docs/` folder for
-this public catalog repository.
+Park Ridge records that public OSM endpoints may omit, and commits refreshed
+output so `generatedAt` stays current even when the place list is unchanged.
+GitHub Pages publishes the `docs/` folder for this public catalog repository.
 
 Do not use a private `raw.githubusercontent.com` URL for App Review. Use one of
 these public HTTPS options instead:
