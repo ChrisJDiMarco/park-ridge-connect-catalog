@@ -1,0 +1,981 @@
+{
+  "generatedAt": "2026-06-16T14:20:12.655709+00:00",
+  "places": [
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Food",
+      "highlights": [
+        "Bakery",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-7820305780",
+      "imageURL": null,
+      "name": "A Little Cake",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Bakery",
+      "summary": "Bakery listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "bakery",
+        "food"
+      ],
+      "website": null
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Food",
+      "highlights": [
+        "Pretzel",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-8331410186",
+      "imageURL": null,
+      "name": "Auntie Anne's",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Pretzel",
+      "summary": "Pretzel listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "fast",
+        "food",
+        "pretzel"
+      ],
+      "website": null
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Food",
+      "highlights": [
+        "Italian",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-7820305793",
+      "imageURL": null,
+      "name": "Bellissimo",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Italian",
+      "summary": "Italian listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "food",
+        "italian",
+        "restaurant"
+      ],
+      "website": null
+    },
+    {
+      "address": "162 Kinderkamack Road, Park Ridge, NJ, 07656-1331",
+      "category": "Food",
+      "highlights": [
+        "Burger",
+        "OpenStreetMap listing",
+        "Address available",
+        "Website listed"
+      ],
+      "id": "osm-node-7820305772",
+      "imageURL": null,
+      "name": "Burger King",
+      "phone": "+1 201-391-4225",
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Burger",
+      "summary": "Burger listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "burger",
+        "fast",
+        "food",
+        "kinderkamack",
+        "road"
+      ],
+      "website": "https://www.bk.com/store-locator/store/restaurant_282"
+    },
+    {
+      "address": "176 Kinderkamack Road, Park Ridge, NJ, 07656-1384",
+      "category": "Food",
+      "highlights": [
+        "Ice Cream",
+        "OpenStreetMap listing",
+        "Address available",
+        "Website listed"
+      ],
+      "id": "osm-node-7820305779",
+      "imageURL": null,
+      "name": "Dairy Queen",
+      "phone": "+1 201-391-5262",
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Ice Cream",
+      "summary": "Ice Cream listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "burger",
+        "chicken",
+        "cream",
+        "fast",
+        "food",
+        "ice",
+        "kinderkamack",
+        "road"
+      ],
+      "website": "https://www.dairyqueen.com/locations/nj/park-ridge/176-kinderkamack-rd/12737"
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Food",
+      "highlights": [
+        "Chinese",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-10211258852",
+      "imageURL": null,
+      "name": "Dragon House restaurant",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Chinese",
+      "summary": "Chinese listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "chinese",
+        "food",
+        "restaurant"
+      ],
+      "website": null
+    },
+    {
+      "address": "184 Kinderkamack Road, Park Ridge, NJ, 07656",
+      "category": "Food",
+      "highlights": [
+        "Donut",
+        "OpenStreetMap listing",
+        "Address available",
+        "Website listed"
+      ],
+      "id": "osm-node-7820305785",
+      "imageURL": null,
+      "name": "Dunkin'",
+      "phone": "+1 201-391-9616",
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Donut",
+      "summary": "Donut listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "coffee",
+        "donut",
+        "fast",
+        "food",
+        "kinderkamack",
+        "road",
+        "shop"
+      ],
+      "website": "https://locations.dunkindonuts.com/en/nj/park-ridge/184-kinderkamack-rd/341058"
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Food",
+      "highlights": [
+        "Mexican",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-7820305747",
+      "imageURL": null,
+      "name": "El Azteca",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Mexican",
+      "summary": "Mexican listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "food",
+        "mexican",
+        "restaurant"
+      ],
+      "website": null
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Food",
+      "highlights": [
+        "Restaurant",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-11612208807",
+      "imageURL": null,
+      "name": "Goldberg's bagel",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Restaurant",
+      "summary": "Restaurant listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "food",
+        "restaurant"
+      ],
+      "website": null
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Food",
+      "highlights": [
+        "Restaurant",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-way-837873474",
+      "imageURL": null,
+      "name": "Goldberg's Original Bagels",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Restaurant",
+      "summary": "Restaurant listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "food",
+        "restaurant"
+      ],
+      "website": null
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Food",
+      "highlights": [
+        "Sushi",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-13684957468",
+      "imageURL": null,
+      "name": "Johnny Roll House",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Sushi",
+      "summary": "Sushi listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "food",
+        "restaurant",
+        "sushi"
+      ],
+      "website": null
+    },
+    {
+      "address": "199 Kinderkamack Road, Park Ridge, NJ, 07656",
+      "category": "Food",
+      "highlights": [
+        "Supermarket",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-11663319567",
+      "imageURL": null,
+      "name": "Lidl",
+      "phone": "+1 844-747-5435",
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Supermarket",
+      "summary": "Supermarket listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "food",
+        "kinderkamack",
+        "road",
+        "supermarket"
+      ],
+      "website": null
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Food",
+      "highlights": [
+        "Pizza",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-13894846271",
+      "imageURL": null,
+      "name": "Marc's Deli and Pizzeria",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Pizza",
+      "summary": "Pizza listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "food",
+        "pizza",
+        "restaurant"
+      ],
+      "website": null
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Food",
+      "highlights": [
+        "Hot Dog",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-8331410185",
+      "imageURL": null,
+      "name": "Nathan's",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Hot Dog",
+      "summary": "Hot Dog listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "dog",
+        "fast",
+        "food",
+        "hot"
+      ],
+      "website": null
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Food",
+      "highlights": [
+        "Pizza",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-10211258853",
+      "imageURL": null,
+      "name": "Park Pizza",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Pizza",
+      "summary": "Pizza listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "food",
+        "pizza",
+        "restaurant"
+      ],
+      "website": null
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Food",
+      "highlights": [
+        "Pizza",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-7820305783",
+      "imageURL": null,
+      "name": "Ridgemont Pizza & Restaurant",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Pizza",
+      "summary": "Pizza listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "food",
+        "pizza",
+        "restaurant"
+      ],
+      "website": null
+    },
+    {
+      "address": "191 Kinderkamack Road, Park Ridge, NJ, 07656",
+      "category": "Food",
+      "highlights": [
+        "Coffee Shop",
+        "OpenStreetMap listing",
+        "Address available",
+        "Website listed"
+      ],
+      "id": "osm-node-7820305781",
+      "imageURL": null,
+      "name": "Starbucks",
+      "phone": "+1 201-669-1532",
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Coffee Shop",
+      "summary": "Coffee Shop listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "cafe",
+        "coffee",
+        "food",
+        "kinderkamack",
+        "road",
+        "shop"
+      ],
+      "website": "https://www.starbucks.com/store-locator/store/1015106/park-ridge-191-kinderkamack-road-park-ridge-nj-076561335-us"
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Food",
+      "highlights": [
+        "Coffee",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-13684957467",
+      "imageURL": null,
+      "name": "Taimoca",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Coffee",
+      "summary": "Coffee listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "coffee",
+        "food"
+      ],
+      "website": null
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Food",
+      "highlights": [
+        "Steak House",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-7820305764",
+      "imageURL": null,
+      "name": "The Park Steakhouse",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Steak House",
+      "summary": "Steak House listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "food",
+        "house",
+        "restaurant",
+        "steak"
+      ],
+      "website": null
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Food",
+      "highlights": [
+        "Pizza",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-7820305796",
+      "imageURL": null,
+      "name": "The Pizza Parlour",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Pizza",
+      "summary": "Pizza listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "food",
+        "pizza",
+        "restaurant"
+      ],
+      "website": null
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Food",
+      "highlights": [
+        "Restaurant",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-way-837873470",
+      "imageURL": null,
+      "name": "the Ridge Diner",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Restaurant",
+      "summary": "Restaurant listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "food",
+        "restaurant"
+      ],
+      "website": null
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Food",
+      "highlights": [
+        "Convenience",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-8331410187",
+      "imageURL": null,
+      "name": "Travel Mart",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Convenience",
+      "summary": "Convenience listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "convenience",
+        "food"
+      ],
+      "website": null
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Food",
+      "highlights": [
+        "Italian",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-way-1446079267",
+      "imageURL": null,
+      "name": "Uncle Louie's",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Italian",
+      "summary": "Italian listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "food",
+        "italian",
+        "restaurant"
+      ],
+      "website": null
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Food",
+      "highlights": [
+        "Ice Cream",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-7820305777",
+      "imageURL": null,
+      "name": "YoFresh Yogurt and Smoothie Cafe",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Ice Cream",
+      "summary": "Ice Cream listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "cream",
+        "food",
+        "ice"
+      ],
+      "website": null
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Food",
+      "highlights": [
+        "Japanese",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-7820305795",
+      "imageURL": null,
+      "name": "Yuki",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Japanese",
+      "summary": "Japanese listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "food",
+        "japanese",
+        "restaurant"
+      ],
+      "website": null
+    },
+    {
+      "address": "146 Kinderkamack Road, Park Ridge, NJ, 07656",
+      "category": "Services",
+      "highlights": [
+        "Butcher",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-7820305786",
+      "imageURL": null,
+      "name": "B & M Meat Market",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Butcher",
+      "summary": "Butcher listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "butcher",
+        "kinderkamack",
+        "road",
+        "services"
+      ],
+      "website": null
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Services",
+      "highlights": [
+        "Alcohol",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-7820305732",
+      "imageURL": null,
+      "name": "Brand Bar & Beverages",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Alcohol",
+      "summary": "Alcohol listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "alcohol",
+        "services"
+      ],
+      "website": null
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Services",
+      "highlights": [
+        "Bicycle",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-7820305733",
+      "imageURL": null,
+      "name": "Cyclesport",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Bicycle",
+      "summary": "Bicycle listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "bicycle",
+        "services"
+      ],
+      "website": null
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Services",
+      "highlights": [
+        "Variety Store",
+        "OpenStreetMap listing",
+        "Address available",
+        "Website listed"
+      ],
+      "id": "osm-node-7820305753",
+      "imageURL": null,
+      "name": "Dollar Tree",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Variety Store",
+      "summary": "Variety Store listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "services",
+        "store",
+        "variety"
+      ],
+      "website": "https://www.dollartree.com/locations/nj/park-ridge/4633/"
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Services",
+      "highlights": [
+        "Carpet",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-7820305805",
+      "imageURL": null,
+      "name": "Faber Brothers",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Carpet",
+      "summary": "Carpet listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "carpet",
+        "services"
+      ],
+      "website": null
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Services",
+      "highlights": [
+        "Beauty",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-7820305784",
+      "imageURL": null,
+      "name": "Magic Nails & Spa",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Beauty",
+      "summary": "Beauty listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "beauty",
+        "services"
+      ],
+      "website": null
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Services",
+      "highlights": [
+        "Hairdresser",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-7820305731",
+      "imageURL": null,
+      "name": "Mani Hair Studio",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Hairdresser",
+      "summary": "Hairdresser listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "hairdresser",
+        "services"
+      ],
+      "website": null
+    },
+    {
+      "address": "122 Kinderkamack Road, Park Ridge, NJ, 07656",
+      "category": "Services",
+      "highlights": [
+        "Car Repair",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-node-2783963957",
+      "imageURL": null,
+      "name": "Park Ridge Automotive Repair",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Car Repair",
+      "summary": "Car Repair listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "car",
+        "kinderkamack",
+        "repair",
+        "road",
+        "services"
+      ],
+      "website": null
+    },
+    {
+      "address": "Park Ridge, NJ",
+      "category": "Services",
+      "highlights": [
+        "Funeral Directors",
+        "OpenStreetMap listing",
+        "Address available"
+      ],
+      "id": "osm-way-837873473",
+      "imageURL": null,
+      "name": "Robert Spearing Funeral Home",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Funeral Directors",
+      "summary": "Funeral Directors listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "directors",
+        "funeral",
+        "services"
+      ],
+      "website": null
+    },
+    {
+      "address": "175 Kinderkamack Road, Park Ridge, NJ, 07656",
+      "category": "Services",
+      "highlights": [
+        "Stationery",
+        "OpenStreetMap listing",
+        "Address available",
+        "Website listed"
+      ],
+      "id": "osm-node-7820305782",
+      "imageURL": null,
+      "name": "Staples",
+      "phone": null,
+      "source": {
+        "id": "openstreetmap",
+        "summary": "Community-maintained place data licensed under the Open Database License.",
+        "title": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/copyright"
+      },
+      "subcategory": "Stationery",
+      "summary": "Stationery listing from the community-maintained OpenStreetMap directory. Confirm current hours and details with the place before going.",
+      "tags": [
+        "kinderkamack",
+        "road",
+        "services",
+        "stationery"
+      ],
+      "website": "https://stores.staples.com/nj/park-ridge/175-kinderkamack-road"
+    }
+  ],
+  "retrievedFrom": [
+    "food-and-nightlife: https://overpass-api.de/api/interpreter",
+    "shops-and-services: https://overpass-api.de/api/interpreter"
+  ],
+  "source": {
+    "id": "openstreetmap",
+    "summary": "Community-maintained place data licensed under the Open Database License.",
+    "title": "OpenStreetMap",
+    "url": "https://www.openstreetmap.org/copyright"
+  },
+  "warnings": [
+    "schools-and-library: https://overpass-api.de/api/interpreter: HTTP Error 504: Gateway Timeout | https://overpass.kumi.systems/api/interpreter: The read operation timed out",
+    "parks-and-recreation: https://overpass-api.de/api/interpreter: HTTP Error 429: Too Many Requests | https://overpass.kumi.systems/api/interpreter: The read operation timed out",
+    "tourism: https://overpass-api.de/api/interpreter: HTTP Error 504: Gateway Timeout | https://overpass.kumi.systems/api/interpreter: The read operation timed out"
+  ]
+}
