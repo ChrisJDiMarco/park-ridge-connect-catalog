@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T11:10:30.376658+00:00",
+  "generatedAt": "2026-08-08T10:55:00.743069+00:00",
   "places": [
     {
       "address": "146 Kinderkamack Road, Park Ridge, NJ 07656",
@@ -1510,11 +1510,11 @@
     }
   ],
   "retrievedFrom": [
-    "food-and-nightlife: https://overpass-api.de/api/interpreter",
+    "food-and-nightlife: https://overpass.kumi.systems/api/interpreter",
     "parks-and-recreation: https://maps.mail.ru/osm/tools/overpass/api/interpreter",
-    "schools-and-library: https://overpass-api.de/api/interpreter",
-    "shops-and-services: https://overpass-api.de/api/interpreter",
-    "tourism: https://overpass-api.de/api/interpreter"
+    "schools-and-library: https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+    "shops-and-services: https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+    "tourism: https://overpass.kumi.systems/api/interpreter"
   ],
   "source": {
     "id": "openstreetmap",
