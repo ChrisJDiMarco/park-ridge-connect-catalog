@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T10:43:27.737292+00:00",
+  "generatedAt": "2026-08-17T10:50:22.775714+00:00",
   "places": [
     {
       "address": "146 Kinderkamack Road, Park Ridge, NJ 07656",
@@ -1509,17 +1509,12 @@
       "website": "https://stores.staples.com/nj/park-ridge/175-kinderkamack-road"
     }
   ],
-  "preservedFromFallback": {
-    "failedFragments": [
-      "tourism"
-    ],
-    "placeCount": 5
-  },
   "retrievedFrom": [
     "food-and-nightlife: https://overpass-api.de/api/interpreter",
     "parks-and-recreation: https://overpass-api.de/api/interpreter",
     "schools-and-library: https://overpass-api.de/api/interpreter",
-    "shops-and-services: https://overpass-api.de/api/interpreter"
+    "shops-and-services: https://overpass-api.de/api/interpreter",
+    "tourism: https://maps.mail.ru/osm/tools/overpass/api/interpreter"
   ],
   "source": {
     "id": "openstreetmap",
@@ -1528,12 +1523,9 @@
     "url": "https://www.openstreetmap.org/copyright"
   },
   "supplementalPlaces": {
-    "addedPlaceCount": 3,
+    "addedPlaceCount": 7,
     "source": "curated Park Ridge seed catalog",
-    "updatedPlaceCount": 10
+    "updatedPlaceCount": 6
   },
-  "warnings": [
-    "tourism: https://overpass-api.de/api/interpreter: HTTP Error 429: Too Many Requests | https://overpass.kumi.systems/api/interpreter: The read operation timed out | https://maps.mail.ru/osm/tools/overpass/api/interpreter: The read operation timed out",
-    "Preserved 5 last-good places for failed fragments: tourism"
-  ]
+  "warnings": []
 }
