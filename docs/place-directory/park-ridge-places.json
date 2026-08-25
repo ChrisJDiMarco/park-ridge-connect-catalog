@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T10:57:09.064810+00:00",
+  "generatedAt": "2026-08-25T10:53:14.067354+00:00",
   "places": [
     {
       "address": "146 Kinderkamack Road, Park Ridge, NJ 07656",
@@ -1533,7 +1533,7 @@
     "updatedPlaceCount": 10
   },
   "warnings": [
-    "food-and-nightlife: https://overpass-api.de/api/interpreter: HTTP Error 504: Gateway Timeout | https://overpass.kumi.systems/api/interpreter: The read operation timed out | https://maps.mail.ru/osm/tools/overpass/api/interpreter: HTTP Error 504: Gateway Time-out",
+    "food-and-nightlife: https://overpass-api.de/api/interpreter: HTTP Error 504: Gateway Timeout | https://overpass.kumi.systems/api/interpreter: The read operation timed out | https://maps.mail.ru/osm/tools/overpass/api/interpreter: The read operation timed out",
     "Preserved 25 last-good places for failed fragments: food-and-nightlife"
   ]
 }
