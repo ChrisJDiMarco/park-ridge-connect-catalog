@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T21:11:39.847984+00:00",
+  "generatedAt": "2026-08-29T15:07:24.759878+00:00",
   "places": [
     {
       "address": "146 Kinderkamack Road, Park Ridge, NJ 07656",
@@ -1509,12 +1509,17 @@
       "website": "https://stores.staples.com/nj/park-ridge/175-kinderkamack-road"
     }
   ],
+  "preservedFromFallback": {
+    "failedFragments": [
+      "food-and-nightlife"
+    ],
+    "placeCount": 25
+  },
   "retrievedFrom": [
-    "food-and-nightlife: https://overpass-api.de/api/interpreter",
     "parks-and-recreation: https://overpass-api.de/api/interpreter",
     "schools-and-library: https://overpass-api.de/api/interpreter",
-    "shops-and-services: https://overpass-api.de/api/interpreter",
-    "tourism: https://overpass-api.de/api/interpreter"
+    "shops-and-services: https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+    "tourism: https://maps.mail.ru/osm/tools/overpass/api/interpreter"
   ],
   "source": {
     "id": "openstreetmap",
@@ -1523,9 +1528,12 @@
     "url": "https://www.openstreetmap.org/copyright"
   },
   "supplementalPlaces": {
-    "addedPlaceCount": 7,
+    "addedPlaceCount": 3,
     "source": "curated Park Ridge seed catalog",
-    "updatedPlaceCount": 6
+    "updatedPlaceCount": 10
   },
-  "warnings": []
+  "warnings": [
+    "food-and-nightlife: https://overpass-api.de/api/interpreter: HTTP Error 504: Gateway Timeout | https://overpass.kumi.systems/api/interpreter: HTTP Error 502: Bad Gateway | https://maps.mail.ru/osm/tools/overpass/api/interpreter: HTTP Error 504: Gateway Time-out",
+    "Preserved 25 last-good places for failed fragments: food-and-nightlife"
+  ]
 }
