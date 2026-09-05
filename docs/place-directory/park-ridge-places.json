@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T14:25:07.257199+00:00",
+  "generatedAt": "2026-09-05T13:29:57.282800+00:00",
   "places": [
     {
       "address": "146 Kinderkamack Road, Park Ridge, NJ 07656",
@@ -1511,14 +1511,14 @@
   ],
   "preservedFromFallback": {
     "failedFragments": [
-      "schools-and-library",
       "tourism"
     ],
-    "placeCount": 12
+    "placeCount": 5
   },
   "retrievedFrom": [
     "food-and-nightlife: https://overpass-api.de/api/interpreter",
-    "parks-and-recreation: https://overpass-api.de/api/interpreter",
+    "parks-and-recreation: https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+    "schools-and-library: https://overpass-api.de/api/interpreter",
     "shops-and-services: https://overpass-api.de/api/interpreter"
   ],
   "source": {
@@ -1533,8 +1533,7 @@
     "updatedPlaceCount": 10
   },
   "warnings": [
-    "schools-and-library: https://overpass-api.de/api/interpreter: HTTP Error 429: Too Many Requests | https://overpass.kumi.systems/api/interpreter: The read operation timed out | https://maps.mail.ru/osm/tools/overpass/api/interpreter: HTTP Error 504: Gateway Time-out",
-    "tourism: https://overpass-api.de/api/interpreter: HTTP Error 504: Gateway Timeout | https://overpass.kumi.systems/api/interpreter: The read operation timed out | https://maps.mail.ru/osm/tools/overpass/api/interpreter: The read operation timed out",
-    "Preserved 12 last-good places for failed fragments: schools-and-library, tourism"
+    "tourism: https://overpass-api.de/api/interpreter: HTTP Error 504: Gateway Timeout | https://overpass.kumi.systems/api/interpreter: The read operation timed out | https://maps.mail.ru/osm/tools/overpass/api/interpreter: HTTP Error 504: Gateway Time-out",
+    "Preserved 5 last-good places for failed fragments: tourism"
   ]
 }
